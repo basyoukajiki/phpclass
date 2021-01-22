@@ -21,6 +21,7 @@ $animal->sayName();
     犬
  */
 
+
 // プロパティだけでなく、メソッドも$thisキーワードで呼びだせる
 class Animal2 {
     public string $name = '猫';
